@@ -56,8 +56,8 @@
         "PickableFlintDescription:再生する収穫可能な火打石を植える。",
         "PickableSmokePuffName:収穫可能な煙玉",
         "PickableSmokePuffDescription:再生する収穫可能な煙玉を植える。",
-        "PickableFiddleheadName:収穫可能な新芽",
-        "PickableFiddleheadDescription:新芽を植えると収穫可能な新芽が育つ。",
+        "PickableFiddleheadName:収穫可能なフィドルヘッド",
+        "PickableFiddleheadDescription:新芽を植えると収穫可能なフィドルヘッドが育つ。",
         "GrowthTimeHoverPrefix:準備完了は "
     ]
 }
